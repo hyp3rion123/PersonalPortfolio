@@ -1,0 +1,114 @@
+{
+    "basic_info": {
+      "description_header": "Hey there!",
+      "description": "My name is Andrei and I'm a second year CS student at the University of Waterloo. You can see my technical skills below but some of my hobbies include running, biking, swimming, listening to music, playing the saxophone, and piano. I also like to read fantasy novels and play video games in my spare time.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Tunetime",
+        "startDate": "2022",
+        "description": "This is my favorite project I've worked on because I was able to explore the connection between my passion for music and my love for technology. I wanted to build something that resonated with users on an emotional level and decided to create Tunetime - an application that mirrors your mood throughout the day by building a playlist based on your scheduled events using the Google and Spotify API's.",
+        "images": [
+          "images/portfolio/tunetime/p1.jpg",
+          "images/portfolio/tunetime/p2.jpg"
+        ],
+        "url": "https://www.tunetime.ca/",
+        "technologies": [
+          {
+            "class": "devicon-flask-original",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          }
+        ]
+      },
+      {
+        "title": "Seekers",
+        "startDate": "2021",
+        "description": "Seekers was a hackathon project that I spearheaded. The idea behind it was to create a platform where users can connect with people who have found their lost items using an interactive map-pinning system. The website contains it's own authentication system and is connected to FaunaDB, a NoSQL database with Netlify as a serverless backend.",
+        "images": [
+          "images/portfolio/seekers/p1.jpg",
+          "images/portfolio/seekers/p2.jpg"
+        ],
+        "url": "https://seekers.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "PacFinder",
+        "startDate": "2021",
+        "description": "PacFinder was a fun project that I designed to feel like the retro arcade game Pac-Man. Users can visualize the path from Pac-Man to the red ghost by building/generating mazes(with Prim's algorithm) and moving the two nodes around. The optimal path is then calculated using Dijktra's algorithm.",
+        "images": [
+          "images/portfolio/pacfinder/p1.jpg",
+          "images/portfolio/pacfinder/p2.jpg"
+        ],
+        "url": "https://hyp3rion123.github.io/PacFinder/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Trend Micro Inc.",
+        "title": "Sofware Developer Intern",
+        "years": "1.2022 - 4.2022",
+        "mainTech": [
+          "AWS/Javascript/Go"
+        ],
+        "technologies": [
+          "React",
+          "CloudFormation",
+          "Serverless",
+          "CloudFront",
+          "Docker",
+          "GitHub",
+          "S3",
+          "HTML",
+          "CSS"
+        ]
+      },
+      {
+        "company": "BlueVoyant",
+        "title": "Security Analyst / Software Developer",
+        "years": "01.2021 - Present",
+        "mainTech": [
+          "Azure/Javascript"
+        ],
+        "technologies": [
+          "NodeJS",
+          "MongoDB",
+          "C#",
+          "KQL",
+          "GitLab"
+        ]
+      }
+    ]
+  }

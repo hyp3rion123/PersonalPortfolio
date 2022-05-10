@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "Andrei Gliga",
+      "titles": [ "Software Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/hyp3rion123",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.linkedin.com/in/andrei-gliga/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain"
+        },        
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain"
+        },        
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-original"
+        }, 
+        {
+          "name": "Azure",
+          "class": "devicon-azure-plain"
+        },    
+        {
+          "name": "C",
+          "class": "devicon-c-plain"
+        },   
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain"
+        },
+        {
+          "name": "GO",
+          "class": "devicon-go-plain"
+        }
+      ]
+    }
+  }
